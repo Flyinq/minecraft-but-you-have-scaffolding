@@ -6,6 +6,8 @@ INFO: This is just a fun little datapack I made in my spare time. Basically it's
 
 RULES:
 -If you die, run the command /reload.
+
 -If someone joins after you have already started, run the command /function scaffold:start
+
 
 HAVE FUN!
