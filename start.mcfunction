@@ -1,0 +1,2 @@
+give @a minecraft:shears{Unbreakable:1,display:{Name:'[{"text":"DOWN","bold":true}]',Lore:['[{"text":"Dig down with these if you want to get lower."}]']},Enchantments:[{id:"minecraft:efficiency",lvl:5}],CanDestroy:["minecraft:oak_leaves"]} 1
+give @a minecraft:leather_boots{Unbreakable:1,display:{Name:'[{"text":"NO FALL DAMAGE","bold":true}]',Lore:['[{"text":"These boots stop fall damage."}]']},Enchantments:[{id:"minecraft:binding_curse",lvl:1},{id:"minecraft:feather_falling",lvl:10}]} 1

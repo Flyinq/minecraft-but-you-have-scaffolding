@@ -1,0 +1,1 @@
+replaceitem entity @a armor.feet minecraft:air
